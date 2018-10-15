@@ -1,5 +1,5 @@
-# static-pages
+# Blog
 
 示例：
-1. [CSS 字体渐变色](https://wumaozheng.com/blog/index.html)
-2. [JS 图片浏览](https://wumaozheng.com/blog/image-magnifier.html)
+1. [CSS字体渐变色](https://wumaozheng.com/blog/index.html)
+2. [JS图片浏览](https://wumaozheng.com/blog/image.html)
