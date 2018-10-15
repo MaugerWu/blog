@@ -1,4 +1,4 @@
-# static-pages
+# Blog
 
 示例：
 1. [CSS字体渐变色](https://wumaozheng.com/blog/index.html)
